@@ -141,7 +141,7 @@ select, input[type="text"], input[type="tel"], input[type="file"], textarea { wi
 </div>
 
 <script>
-const LIFF_ID = "2008817045-sdkRKpLB";
+const LIFF_ID = "2008817045-0yfL2KnG";
 const GAS_URL = "https://script.google.com/macros/s/AKfycbyB49ZpJu9PA-E93TLt5ecVqsU8t6Rm90i3SvCoSBy1Oyq5GWionwCn0dvYPguhwohf/exec";
 
 let acCount = 1;
